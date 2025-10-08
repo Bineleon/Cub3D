@@ -27,6 +27,15 @@ A mix of nostalgia, pop culture, and pure C programming fun.
 
 ---
 
+## 🎨 Preview
+
+<p align="center">
+  <img src="screenshots/dwight_wig_screen.png" width="600"><br>
+  <img src="screenshots/prison_mike_screen.png" width="600"><br>
+  <img src="screenshots/date_mike_screen.png" width="600"><br>
+  <img src="screenshots/mike_noo_screen.gif" width="600">
+</p>
+
 ## ⚙️ Installation & Compilation
 
 ### 🧱 Requirements
