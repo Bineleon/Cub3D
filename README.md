@@ -54,6 +54,19 @@ For the full experience:
 ./cub3d_bonus maps/map_good_door_bonus.cub 
 ```
 
+### 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| **W** | Move forward |
+| **S** | Move backward |
+| **A** | Move left |
+| **D** | Move right |
+| **← / →** | Rotate camera left / right |
+| **ESC** | Exit the game |
+| **SPC** *(bonus)* | Open or close a door |
+| **M** *(bonus)* | Toggle mouse and look around (camera rotation) |
+
 ### Example Map Structure
 ```
 NO textures/prison_mike_400_25.xpm
